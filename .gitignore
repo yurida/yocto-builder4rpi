@@ -1,0 +1,6 @@
+build-rpi/bitbake-cookerdaemon.log
+build-rpi/bitbake.lock
+build-rpi/cache
+build-rpi/tmp
+build-rpi/downloads
+build-rpi/sstate-cache
